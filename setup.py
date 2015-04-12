@@ -24,7 +24,7 @@ setup(
     author_email='daniele.sluijters+pypi@gmail.com',
     packages=find_packages(),
     url='https://github.com/nedap/puppetboard',
-    license='Apache License 2.0',
+    license='Apache-2.0',
     description='Web frontend for PuppetDB',
     include_package_data=True,
     long_description='\n'.join((README, CHANGELOG)),
